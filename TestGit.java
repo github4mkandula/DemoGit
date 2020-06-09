@@ -10,4 +10,9 @@ public class TestGit extends Git{
    System.out.println("added print");
   }
   
+  public void newFeatures(){
+  
+  
+  }
+  
  }
